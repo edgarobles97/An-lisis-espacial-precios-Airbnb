@@ -1,11 +1,11 @@
 # "The economics behind two-sided markets: key determinants of Airbnb pricing in Mexico City"
 Repositorio de la tesina: "The economics behind two-sided markets: key determinants of Airbnb pricing in Mexico City"
 
-1.Procesamiento y limpieza
-2.Exploración visual
-3.Incorporación de variables de ubicación
-4.Autocorrelación espacial
-5.Regresión espacial
+1. Procesamiento y limpieza
+2. Exploración visual
+3. Incorporación de variables de ubicación
+4. Autocorrelación espacial
+5. Regresión espacial
 
 
 El surgimiento de la economía compartida ha tenido efectos sustanciales en diversas industrias (comercio electrónico, trasnportes, comunicación). 
